@@ -4,7 +4,7 @@ age = int(input('возраст: '))
 if age < 18:
     print('НЕЛЬЗЯ')
     print('иди домой')
-    print('быстро сука')
+    print('быстрее')
 elif (age > 18 and age <25):
     if age == 20:
         print('маме скажу')
